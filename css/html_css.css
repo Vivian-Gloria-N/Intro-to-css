@@ -1,0 +1,16 @@
+p{
+    color: red;
+}
+#viv{
+    color: blue;
+    font-weight: 400;
+}
+.details{
+    color: green;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+*{
+    background-color: yellowgreen;
+}
