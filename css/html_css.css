@@ -14,3 +14,6 @@ p{
 *{
     background-color: yellowgreen;
 }
+#Gloria>p{
+    color: chocolate;
+}
